@@ -189,15 +189,15 @@ http://127.0.0.1:5000
 
 > ### Executive Dashboard
 
-![Executive Dashboard](Dashboard/Dashboard_Page1.png)
+![Executive Dashboard](Dashboard/page1.png)
 
 > ### Geographic Dashboard
 
-![Geographic Dashboard](Dashboard/Dashboard_Page2.png)
+![Geographic Dashboard](Dashboard/Page2.png)
 
 > ### Machine Learning Dashboard
 
-![Machine Learning Dashboard](Dashboard/Dashboard_Page3.png)
+![Machine Learning Dashboard](Dashboard/Page3.png)
 
 ---
 
