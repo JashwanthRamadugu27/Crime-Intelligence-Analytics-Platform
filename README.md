@@ -193,11 +193,11 @@ http://127.0.0.1:5000
 
 > ### Geographic Dashboard
 
-![Geographic Dashboard](Dashboard/Page2.png)
+![Geographic Dashboard](Dashboard/page2.png)
 
 > ### Machine Learning Dashboard
 
-![Machine Learning Dashboard](Dashboard/Page3.png)
+![Machine Learning Dashboard](Dashboard/page3.png)
 
 ---
 
