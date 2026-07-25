@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Crime Dashboard</title>
+
+<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+
+</head>
+
+<body>
+
+<header>
+
+<h1>📊 Crime Analytics Dashboard</h1>
+
+<p>
+Interactive Power BI Dashboard for Crime Intelligence
+</p>
+
+</header>
+
+<nav>
+
+<a href="/">🏠 Home</a>
+
+<a href="/dashboard">📊 Dashboard</a>
+
+<a href="/prediction">🤖 ML Forecast</a>
+
+<a href="/about">📄 About</a>
+
+</nav>
+
+<div class="container">
+
+<div class="card">
+
+<h2>Dashboard Overview</h2>
+
+<p>
+
+This dashboard provides crime trends, hotspot districts, crime categories,
+severity analysis and geographical visualization across Karnataka.
+
+</p>
+
+</div>
+
+<div class="card">
+
+<h2>📄 Dashboard - Page 1</h2>
+
+<img src="{{ url_for('static', filename='images/page1.png') }}">
+
+</div>
+
+<div class="card">
+
+<h2>📄 Dashboard - Page 2</h2>
+
+<img src="{{ url_for('static', filename='images/page2.png') }}">
+
+</div>
+
+</div>
+
+<footer>
+
+Team JayaDhwaja | KSP Datathon 2026
+
+</footer>
+
+</body>
+
+</html>
