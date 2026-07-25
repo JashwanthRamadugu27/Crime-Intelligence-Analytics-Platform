@@ -1,0 +1,148 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:"Segoe UI",sans-serif;
+}
+
+body{
+
+    background:#E9D8E8;
+
+    color:#333;
+
+}
+
+header{
+
+    background:linear-gradient(90deg,#5A2D82,#8E6BC7);
+
+    color:white;
+
+    text-align:center;
+
+    padding:28px;
+
+    box-shadow:0px 5px 15px rgba(0,0,0,.25);
+
+}
+
+header h1{
+
+    font-size:38px;
+
+}
+
+header p{
+
+    margin-top:10px;
+
+    font-size:18px;
+
+}
+
+nav{
+
+    background:white;
+
+    display:flex;
+
+    justify-content:center;
+
+    gap:20px;
+
+    padding:18px;
+
+    box-shadow:0px 3px 10px rgba(0,0,0,.15);
+
+}
+
+nav a{
+
+    text-decoration:none;
+
+    color:white;
+
+    background:#6D4C8C;
+
+    padding:12px 26px;
+
+    border-radius:10px;
+
+    transition:.3s;
+
+    font-weight:bold;
+
+}
+
+nav a:hover{
+
+    background:#4A2F5E;
+
+}
+
+.container{
+
+    width:90%;
+
+    margin:auto;
+
+    padding:30px;
+
+}
+
+.card{
+
+    background:white;
+
+    border-radius:20px;
+
+    padding:30px;
+
+    margin-top:25px;
+
+    box-shadow:0px 6px 18px rgba(0,0,0,.18);
+
+}
+
+.card h2{
+
+    color:#5A2D82;
+
+    margin-bottom:15px;
+
+}
+
+.card p{
+
+    line-height:1.8;
+
+    font-size:17px;
+
+}
+
+img{
+
+    width:100%;
+
+    border-radius:18px;
+
+    margin-top:20px;
+
+    box-shadow:0px 5px 15px rgba(0,0,0,.18);
+
+}
+
+footer{
+
+    margin-top:40px;
+
+    text-align:center;
+
+    padding:20px;
+
+    color:#666;
+
+    font-size:15px;
+
+}
